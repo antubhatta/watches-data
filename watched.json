@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "name": "Elegant Gold-Plated Watch",
+    "price": 799.99
+  },
+  {
+    "id": 102,
+    "name": "Minimalist Leather Strap Watch",
+    "price": 149.95
+  },
+  {
+    "id": 103,
+    "name": "Digital Fitness Tracker Pro",
+    "price": 129.99
+  },
+  {
+    "id": 104,
+    "name": "Stainless Steel Dive Watch",
+    "price": 249.50
+  },
+  {
+    "id": 105,
+    "name": "Luxury Swiss Automatic Watch",
+    "price": 1899.00
+  },
+  {
+    "id": 106,
+    "name": "Smartwatch with Heart Rate Monitor",
+    "price": 199.99
+  },
+  {
+    "id": 107,
+    "name": "Classic Vintage Pocket Watch",
+    "price": 189.95
+  },
+  {
+    "id": 108,
+    "name": "Sports Chronograph Stopwatch",
+    "price": 179.99
+  },
+  {
+    "id": 109,
+    "name": "Sleek Titanium Wristwatch",
+    "price": 349.99
+  },
+  {
+    "id": 110,
+    "name": "Fashionable Rose Gold Watch",
+    "price": 299.50
+  }
+]
